@@ -1,0 +1,12 @@
+select{
+    width: 200px;
+    background-color: rgb(12, 172, 164);
+    
+}
+option{
+    background-color: skyblue;
+    font-size: 15px;
+    font-weight:100;
+    
+    
+}
